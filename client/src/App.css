@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding: 0px;
+  margin: 32px;
+}
+
+.App button {
+  margin-bottom: 16px;
+}
+
+.App * {
+  transition: all 1s ease-in-out;
+}
